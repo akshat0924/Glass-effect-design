@@ -1,4 +1,4 @@
-# Glass Website ✨
+# Glass Website 
 
 This is a simple website built using **HTML and CSS** with a beautiful **Glassmorphism UI design**.
 
@@ -10,5 +10,6 @@ This is a simple website built using **HTML and CSS** with a beautiful **Glassmo
 
 ## 🛠️ Technologies Used
 - HTML5  
-- CSS3  
+- CSS3
+- 
 
